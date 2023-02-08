@@ -1,0 +1,50 @@
+.bug {
+	background: linear-gradient(102deg, #fff6df 17.38%, #ffdfde 81.25%);
+	border-radius: 60px;
+	padding: 0 245px;
+	max-width: 1110px;
+	display: flex;
+	align-items: center;
+	max-width: 1110px;
+	gap: 101px;
+}
+
+.info {
+	position: absolute;
+	max-width: 465px;
+	gap: 30px;
+}
+
+.bug__img {
+	margin-left: 890px;
+}
+
+.info__title {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 140%;
+	color: #000000;
+}
+
+.info__text {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 136.7%;
+	color: #000000;
+	max-width: 423px;
+	margin-bottom: 60px;
+}
+
+.info__btn {
+	background: #ff6861;
+	border-radius: 100px;
+	color: #ffffff;
+	padding: 22px 70px;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 700;
+}

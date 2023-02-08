@@ -1,1 +1,7 @@
-@import url("./css/block.css");
+@import url("./css/normalise.css");
+
+@import url("./css/header.css");
+@import url("./css/base.css");
+@import url("./css/game.css");
+@import url("./css/bug.css");
+@import url("./css/footer.css");
