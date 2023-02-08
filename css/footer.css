@@ -1,3 +1,7 @@
+.logo2 {
+	display: flex;
+	margin-top: 120px;
+}
 .footer {
 	font-family: "Montserrat";
 	font-style: normal;
@@ -6,5 +10,4 @@
 	line-height: 136.7%;
 	text-align: center;
 	color: #000000;
-	margin: 120px 701px;
 }
