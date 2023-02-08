@@ -2,6 +2,7 @@
 	background: #fdfcef;
 	max-width: 720px;
 	padding: 80px 245px;
+	display: flex;
 	flex-direction: column;
 	align-items: center;
 	margin-top: 40px;
